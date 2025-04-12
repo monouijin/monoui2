@@ -26,10 +26,10 @@ const Hero: React.FC = () => {
           </p>
           <div className="flex space-x-4 justify-center md:justify-start mb-8">
             <a
-              href="projects"
+              href="project"
               className="px-6 py-3 bg-primary text-white font-medium rounded-md hover:bg-blue-600 transition-colors duration-300"
             >
-              プロジェクトを見る
+              使用技術
             </a>
             <a
               href="contact"
