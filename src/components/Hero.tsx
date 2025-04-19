@@ -21,8 +21,10 @@ const Hero: React.FC = () => {
             こんにちは、<span className="text-primary">中野勇太</span>です
           </h1>
           <p className="text-xl text-gray-600 mb-6">
-            愛媛県松山市に住んでいる中野勇太です。
-            Webアプリケーションの開発に興味があり、将来はWebエンジニアになりたいです。
+            はじめまして。中野勇太と申します。福井県出身、現在は愛媛県松山市に在住しています。
+            <br/>
+            文系学部出身ですが、ITの世界に強い興味を持ち、特にシステム開発に惹かれています。
+            技術的なスキルと人文的な思考を組み合わせながら、使いやすく価値のあるシステムづくりに挑戦していきたいと思っています。
           </p>
           <div className="flex space-x-4 justify-center md:justify-start mb-8">
             <a
