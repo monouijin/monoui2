@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           <div className="mb-6 md:mb-0">
             <h2 className="text-2xl font-bold mb-2">MyProfile</h2>
             <p className="text-gray-400">
-              ウェブアプリケーション開発に真剣に取り組みます
+              システム開発に真剣に取り組みます
             </p>
           </div>
 
